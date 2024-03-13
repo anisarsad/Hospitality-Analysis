@@ -31,6 +31,10 @@ Metrics relevant to the hotel industry are implemented to provide relevant insig
 - #### Daily Utilized Room Nights (DURN):
   This metric tells on average how many rooms are succesfully utilized by customers for a day considering a time period
 
+## Data Model:
+<p align="center">
+  <img src="https://github.com/anisarsad/Hospitality-Analysis/blob/main/Data%20Model.png" height="400">
+</p>
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
